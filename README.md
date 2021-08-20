@@ -32,6 +32,46 @@
 - [Data modeling techniques](https://dataedo.com/blog/basic-data-modeling-techniques)
 
 
+# Data Cleaning
+
+- [Central Limit Theorem](https://www.investopedia.com/terms/c/central_limit_theorem.asp) : This article by Investopedia explains the Central Limit Theorem and briefly describes how it can apply to an analysis of a stock index.
+
+- [Sample Size Formula](https://www.statisticssolutions.com/dissertation-resources/sample-size-calculation-and-sample-size-justification/sample-size-formula/) : This article by Statistics Solutions provides a little more detail about why some researchers use 30 as a minimum sample size.
+
+- [Sample Size Calculator by SurveyMonkey](https://www.surveymonkey.com/mp/sample-size-calculator/)
+
+- [Sample Size Calculator by raosoft.com](http://www.raosoft.com/samplesize.html)
+
+- [Margin of Error calculator by Good Calculators](https://goodcalculators.com/margin-of-error-calculator/)
+
+- [Margin of Error Calculator by CheckMarket](https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator)
+
+- [Inaccuracies cost companies between 15% and 25% of revenue](https://sloanreview.mit.edu/article/seizing-opportunity-in-data-quality/)
+
+- [Up to 25% of B2B database contacts contain inaccuracies](https://www.demandgen.com/dirty-data-what-is-it-costing-you/)
+
+- [8 out of 10 companies have said that dirty data hinders sales campaigns](https://www.dqglobal.com/2011/05/04/obsolete-or-dirty-data/)
+
+- [Duplicate records can be 10% and even up to 20% of a hospital’s electronic health records](https://searchhealthit.techtarget.com/feature/Hospitals-battle-duplicate-medical-records-with-technology)
+
+- [Top 10 Ways to Clean Your Data](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+
+- [10 Google Workspace Tips to Clean Up Data](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
+
+- [Automating Scientific Data Analysis](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
+
+- [Automating Big-Data Analysis](https://news.mit.edu/2016/automating-big-data-analysis-1021)
+
+- [10 of the Best Options for Workflow Automation Software](https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/)
+
+
+
+# Data Analyst Resume Tips
+
+- [CareerCon 2019 YouTube Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-npFrYu6cO7h7AI6bkcOlL)
+
+- [CareerCon 2018 YouTube Playlist](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)
+
 # Sites & Resources for Open Data
 
 - [US Government Data Site](https://www.data.gov/) : Data.gov is one of the most comprehensive data sources in the US. This resource gives users the data and tools that they need to do research, and even helps them develop web and mobile applications and design data visualizations.
@@ -76,5 +116,7 @@
 - [How one of the world’s biggest marketers ripped up its playbook and learned to anticipate intent](https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/pepsi-digital-transformation/)
 
 - [Why (Literally) Sketching Out Your Ideas Can Fix Your Team's Communication Problems](https://www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html)
+
+- [Difference Between Open Data & Public Data](https://towardsdatascience.com/is-there-a-difference-between-open-data-and-public-data-6261cd7b5389)
 
 
