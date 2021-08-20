@@ -1,6 +1,6 @@
 # SQL
 
-- [SQL Best Practices](../assets/pdf/sql_best_practices.pdf)
+- [SQL Best Practices](./assets/pdf/sql_best_practices.pdf)
 
 
 
