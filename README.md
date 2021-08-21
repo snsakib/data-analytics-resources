@@ -25,6 +25,19 @@
 
 - [Google Sheet Errors](https://www.benlcollins.com/spreadsheets/formula-parse-error/)
 
+- [20 Google Sheets Formulas You Must Know](https://automate.io/blog/google-spreadsheet-formulas/)
+
+- [18 Google Sheets Formula Tips & Techniques](https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques/)
+
+- [Essentials Excel Skills for Analyzing Data](https://learntocodewith.me/posts/excel-skills/)
+
+- [Advanced Spreadsheet Skills](https://www.slideshare.net/markjhonoxillo/advanced-spreadsheet-skills)
+
+- [23 things you should know about VLOOKUP in Excel](https://exceljet.net/things-you-should-know-about-vlookup)
+
+- [VLOOKUP in Excel & Google Sheets](https://infoinspired.com/sheets-vs-excel-formula/vlookup-formula-in-excel-and-google-sheets/)
+
+
 # Prepare Data for Exploration
 
 - [Data modeling](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
