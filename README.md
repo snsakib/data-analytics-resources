@@ -10,6 +10,26 @@
 - [SQL Best Practices](./assets/pdf/sql_best_practices.pdf)
 
 
+# R & Python
+
+- [R vs Python: A comprehensive guide for data professionals](https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598) : This article is written by a data professional with extensive experience using both languages and provides a detailed comparison. 
+
+- [R vs Python: An objective comparison](https://www.dataquest.io/blog/python-vs-r/) : This article provides a comparison of the languages using examples of code use.
+
+- [R vs Python: What's the best language for data science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/) : This blog article provides RStudio’s perspective on the R vs. Python debate.
+
+- [R: Clean Code](./assets/pdf/r-clean-code.pdf)
+
+- [Quick List of Useful R Packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+
+- [Bias Function in R](https://www.rdocumentation.org/packages/SimDesign/versions/2.2/topics/bias)
+
+- [Visualizing Data with ggplot2](https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html)
+
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+- [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
+
 
 # Data Visualization
 
@@ -188,4 +208,4 @@
 
 - [Difference Between Open Data & Public Data](https://towardsdatascience.com/is-there-a-difference-between-open-data-and-public-data-6261cd7b5389)
 
-
+- [Data Science Ethics](https://datasciencebox.org/ethics.html)
